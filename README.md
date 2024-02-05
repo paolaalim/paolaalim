@@ -27,5 +27,4 @@ Sou estudante de engenharia de software na UnB, uma entusiasta da tecnologia e a
 </div>                      
 
 
-![Snake animation](https://github.com/paolaalim/paolaalim/blob/output/github-contribution-grid-snake.svg)
 
