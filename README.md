@@ -21,7 +21,7 @@ Sou estudante de engenharia de software na UnB, uma entusiasta da tecnologia e a
 ## Contatos:
 
 <div>
-<a href="[https://instagram.com/paolaalim_](https://www.instagram.com/paolaalim_/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://instagram.com/paolaalim_/](https://www.instagram.com/paolaalim_/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "paola.rebeca.ldn@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/paola-nascimento-001b4624a/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>                      
