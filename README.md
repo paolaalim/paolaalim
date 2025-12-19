@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=120&section=header&text=&fontSize=0" />
+
 
 ### 🌸 Bem-vindo ao meu perfil! 
  
@@ -23,7 +24,7 @@ Atualmente, direciono meus estudos para desenvolvimento de software — com foco
 
 ## 💡 Áreas de Interesse
 
-- Desenvolvimento Back-end  
+- Desenvolvimento Full-stack, com foco em back-end e dados
 - Estruturas de Dados e Algoritmos  
 - Bancos de Dados e Modelagem  
 - Desenvolvimento Web  
@@ -36,6 +37,8 @@ Atualmente, direciono meus estudos para desenvolvimento de software — com foco
   <a href="mailto:paola.rebeca.ldn@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF9671?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/paola-nascimento-001b4624a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFC75F?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 </div>
+
+<br/>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=FF6F91&height=4&section=header" />
 
