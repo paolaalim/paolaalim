@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6F91&height=120&section=header&text=&fontSize=0" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FF6F91&width=980&lines=Bem-vindo+ao+meu+perfil+%E2%9C%A8;Transformando+l%C3%B3gica+em+sistemas+bem+estruturados;Back-end+%7C+Modelagem+de+Dados+%7C+Arquitetura+de+Software" />
 
 
-### 🌸 Bem-vindo ao meu perfil! 
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=FF6F91&height=4" />
  
-# Olá, me chamo Paola ! 
+# Olá, me chamo Paola 🌸! 
 
 Quem sou eu?
 Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, movida por curiosidade, lógica e vontade constante de evoluir tecnicamente.  
