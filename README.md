@@ -17,7 +17,7 @@ Atualmente, direciono meus estudos para desenvolvimento de software — com foco
 
 <div>
   <a href="https://github.com/paolaalim">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaalim&layout=compact&langs_count=7&theme=radical"/>              
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaalim&layout=compact&langs_count=7&theme=radical"/>   
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=paolaalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
 </div>
