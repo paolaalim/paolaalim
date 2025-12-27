@@ -5,7 +5,6 @@
  
 # Olá, me chamo Paola 🌸! 
 
-Quem sou eu?
 Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, movida por curiosidade, lógica e vontade constante de evoluir tecnicamente.  
 Gosto de entender como as coisas funcionam, da modelagem de dados à construção de soluções bem estruturadas.
 
