@@ -15,7 +15,7 @@ Atualmente, direciono meus estudos para desenvolvimento de software — com foco
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
-<div align="center">
+<div>
   <a href="https://github.com/paolaalim">
         <img align="center" height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paolaalim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
         <img align="center" height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paolaalim&layout=compact&langs_count=7&theme=radical"/>
