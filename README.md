@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FF6F91&width=980&lines=Bem-vindo+ao+meu+perfil+%E2%9C%A8;Transformando+l%C3%B3gica+em+sistemas+bem+estruturados;Back-end+%7C+Modelagem+de+Dados+%7C+Arquitetura+de+Software+%7C+LLM+%7C+IA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FF6F91&width=980&lines=Bem-vindo+ao+meu+perfil;Transformando+l%C3%B3gica+em+sistemas+bem+estruturados;Back-end+%7C+Modelagem+de+Dados+%7C+Arquitetura+de+Software+%7C+LLM+%7C+IA" />
 
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=FF6F91&height=4" />
